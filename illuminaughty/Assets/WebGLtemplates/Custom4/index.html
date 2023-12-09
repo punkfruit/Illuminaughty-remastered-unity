@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-us">
+   <head>
+      <meta charset="utf-8" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Custom template | %UNITY_WEB_NAME%</title>
+      <link rel="stylesheet" href="/Template/style.css" />
+      <script src="%UNITY_WEBGL_LOADER_URL%"></script>
+      <script>
+         // Unity Initialization
+         var unityInstance = UnityLoader.instantiate(
+            "unity-container",
+            "%UNITY_WEBGL_BUILD_URL%"
+         );
+      </script>
+   </head>
+   <body>
+      <!-- Unity WebGL will be here -->
+      <div id="unity-container" style="width: %UNITY_WIDTH%px; height: %UNITY_HEIGHT%px;"></div>
+
+      <h3>Example made by</h3>
+      <p><a href="https://patrykgalach.com">Patryk Galach - Dev Blog</a></p>
+   </body>
+</html>

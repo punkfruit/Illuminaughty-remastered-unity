@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyDeaths
+  - Boss
+  - OneOff
+  - Button
+  - Block
+  - Laser
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Bullets
+  - Pickups
+  - collision
+  - EnemyBullets
+  - EnemDeathAnims
+  - ignore Bullets
+  - ONEOFF
+  - BOSS
+  - ignorePickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Tiles
+    uniqueID: 959235671
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enemyDeaths
+    uniqueID: 951391423
+    locked: 0
+  - name: Player
+    uniqueID: 3433002699
+    locked: 0
+  - name: Enemies
+    uniqueID: 2817454559
+    locked: 0
+  - name: Shooting
+    uniqueID: 644264927
+    locked: 0
+  - name: TOP
+    uniqueID: 3078270947
+    locked: 0

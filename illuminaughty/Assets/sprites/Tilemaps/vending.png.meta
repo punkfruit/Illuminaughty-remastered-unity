@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 173f4c9ebffef9749af20363ccd50d4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2910426235583371282
+    second: vending_0
+  - first:
+      213: 3236081965331142696
+    second: vending_1
+  - first:
+      213: 655853633509285463
+    second: vending_2
+  - first:
+      213: 2695493042072027947
+    second: vending_3
+  - first:
+      213: 474834996484382621
+    second: vending_4
+  - first:
+      213: 179847410433596949
+    second: vending_5
+  - first:
+      213: 8800774194657014455
+    second: vending_6
+  - first:
+      213: 8909083869911280362
+    second: vending_7
+  - first:
+      213: -532869002336210952
+    second: vending_8
+  - first:
+      213: -3331777080399633403
+    second: vending_9
+  - first:
+      213: 9220554731682580203
+    second: vending_10
+  - first:
+      213: 5465200044202704269
+    second: vending_11
+  - first:
+      213: -2331967146799943006
+    second: vending_12
+  - first:
+      213: -1254221093890349341
+    second: vending_13
+  - first:
+      213: -5531453371384284023
+    second: vending_14
+  - first:
+      213: 8878159553037042252
+    second: vending_15
+  - first:
+      213: 7376841081623055780
+    second: vending_16
+  - first:
+      213: 2270662618067006472
+    second: vending_17
+  - first:
+      213: -4189349936563193125
+    second: vending_18
+  - first:
+      213: -4691556570305167059
+    second: vending_19
+  - first:
+      213: 7272883393554506044
+    second: vending_20
+  - first:
+      213: -6601696798195943352
+    second: vending_21
+  - first:
+      213: -8125100718516903055
+    second: vending_22
+  - first:
+      213: -2777562379368609599
+    second: vending_23
+  - first:
+      213: -5913482233413064034
+    second: vending_24
+  - first:
+      213: -7892232476671830535
+    second: vending_25
+  - first:
+      213: -2123781996388563384
+    second: vending_26
+  - first:
+      213: 6986900647241350793
+    second: vending_27
+  - first:
+      213: 3502703928895890046
+    second: vending_28
+  - first:
+      213: -6604051080321738587
+    second: vending_29
+  - first:
+      213: 1855201644721523079
+    second: vending_30
+  - first:
+      213: -7381010755522336915
+    second: vending_31
+  - first:
+      213: 118834505720111148
+    second: vending_32
+  - first:
+      213: 8593894295031255346
+    second: vending_33
+  - first:
+      213: 508290594585997707
+    second: vending_34
+  - first:
+      213: -6199088870440412621
+    second: vending_35
+  - first:
+      213: -4754165806752109723
+    second: vending_36
+  - first:
+      213: -441437590900032655
+    second: vending_37
+  - first:
+      213: -1863133549649436481
+    second: vending_38
+  - first:
+      213: 4087276273053257744
+    second: vending_39
+  - first:
+      213: 998907517554563003
+    second: vending_0
+  - first:
+      213: 4602976317848522579
+    second: vending_1
+  - first:
+      213: -8508871607636412670
+    second: vending_2
+  - first:
+      213: 1571773102604584062
+    second: vending_3
+  - first:
+      213: 2998254593609623549
+    second: vending_4
+  - first:
+      213: -3344922773055144760
+    second: vending_5
+  - first:
+      213: -6643286878704030072
+    second: vending_6
+  - first:
+      213: -1343055224404362205
+    second: vending_7
+  - first:
+      213: -2239603975802100544
+    second: vending_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vending_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79e434815dcdd00800000000000000
+      internalID: 998907517554563003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f85eec29e01ef30800000000000000
+      internalID: 4602976317848522579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207bc63da5a6ae980800000000000000
+      internalID: -8508871607636412670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7482482f4f00d510800000000000000
+      internalID: 1571773102604584062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 42
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e84edaa0fb9920800000000000000
+      internalID: 2998254593609623549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccfee6c5727491d0800000000000000
+      internalID: -3344922773055144760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e25dd08cd4ec3a0800000000000000
+      internalID: -6643286878704030072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c35a3a3628c5de0800000000000000
+      internalID: -1343055224404362205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vending_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c463c8cc045be0e0800000000000000
+      internalID: -2239603975802100544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
